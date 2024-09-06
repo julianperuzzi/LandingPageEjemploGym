@@ -27,7 +27,7 @@ const Reservations = () => {
               Entrenamientos Personalizados
             </h4>
             <p className="text-gray-200 text-sm md:text-base">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit commodi, dolorem facere asperiores incidunt temporibus, corrupti neque aspernatur doloribus
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit commodi, 
             </p>
           </div>
 
